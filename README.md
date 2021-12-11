@@ -2,10 +2,10 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lovelysnow&theme=dark&show_icons=true">
 I'm a student  
 
--   :🌱I'm currently learning Java,C#,Rust  
--   :😄I like Hack  
--   :I'm good at develop UI
--   :My Twitter: @CuteSnowAhh
+- 👋 Hi, I’m @LovelySnow
+- 👀 I’m interested in Hack,GalGame
+- 🌱 I’m currently learning Java,C#,Kotlin
+- 📫 How to reach me Twitter @CuteSnowAhh
 
 <!--
 
