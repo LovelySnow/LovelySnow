@@ -1,4 +1,4 @@
-<h1 align="center">Lovely Snow❄<img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/>=></h1>  
+<h1 align="center">Lovely Snow❄<img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/></h1>  
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lovelysnow&theme=dark&show_icons=true">
 I'm a student  
 -   :Language: Java,Kotlin,Rust 
