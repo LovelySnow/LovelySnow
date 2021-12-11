@@ -1,6 +1,5 @@
 <h1 align="center">The Snow❄ <img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/></h1>  
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lovelysnow&theme=dark&show_icons=true">  
--   :👋 Hi, I’m @LovelySnow  
--   :👀 I’m interested in Hack,GalGame  
--   :🌱 I’m currently learning Java,C#,Kotlin  
--   :📫 How to reach me Twitter @CuteSnowAhh
+Hey this is LovelySnow👋 
+I'm a student.
+
