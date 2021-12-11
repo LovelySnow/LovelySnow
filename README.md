@@ -1,14 +1,11 @@
-<h1 align="center">Lovely Snow雪花<img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/><img src="https://img.shields.io/badge/Language-Rust-orange" alt="website"/></h1>  
+<h1 align="center">Lovely Snow❄<img src="https://img.shields.io/badge/Language-Java-orange" alt="website"/><img src="https://img.shields.io/badge/Language-Rust-orange" alt="website"/></h1>  
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lovelysnow&theme=dark&show_icons=true">
 I'm a student  
 
--   :Language: Java,Kotlin,Rust 
--   :What games do I play?: Minecraft,Factorio,CSGO  
--   :What do I do? : Cheating software,Minecraft Plugin/Mod/Client,QQ Bot
--   :What do I use? : Spongepowered Mixin,Cheat Engine,IntelliJ IDEA  
--   :Sex : Unknown🤔  
--   :My blog : [In The Shadow](https://blog.nya.al)
--   Trying learn Machine code
+-   :🌱I'm currently learning Java,C#,Rust  
+-   :😄I like Hack  
+-   :I'm good at develop UI
+-   :My Twitter: @CuteSnowAhh
 
 <!--
 
